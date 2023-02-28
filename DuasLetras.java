@@ -1,4 +1,4 @@
-// RA: 5157519 
+// RA: 5157519 .
 public class DuasLetras {
     public static void main(String[] args) {
         if (args.length == 0) {

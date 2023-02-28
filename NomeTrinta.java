@@ -1,4 +1,4 @@
-// RA: 5157519 
+// RA: 5157519 .
 public class NomeTrinta {
     public static void main(String[] args) {
         //System.out.println("Arthur ".repeat(30));

@@ -1,4 +1,4 @@
-// RA: 5157519 
+// RA: 5157519 .
 public class MostrarSequencia {
 
     public static void main(String[] args) {
